@@ -1,0 +1,5 @@
+aiohttp>=3.7.4.post0
+aiohttp-jinja2>=1.4.2
+telethon>=1.16.4
+cryptg>=0.2.post4
+pillow>=8.2.0
